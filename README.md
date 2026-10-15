@@ -1,6 +1,6 @@
 # Slate Chess — downloads
 
-The data that [Slate Chess](https://slatechess.app) ships with, published here
+The data that [Slate Chess](https://slatechess.com) ships with, published here
 so each file can be obtained under the licence it is offered under.
 
 The app itself is not here, and neither is the Slate engine. This repository
