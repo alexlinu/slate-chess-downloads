@@ -14,17 +14,22 @@ release keeps each version's file fixed, and keeps a clone small.
 
 ## What is published
 
-| Release | File | Size | Licence |
-|---|---|---|---|
-| [`book-v1.0.0`](../../releases/tag/book-v1.0.0) | `slate-book-v1.0.0-lichess-lite.bin` | 6.6 MB | **CC BY-SA 4.0** |
+| Release | File | Size | Plays for | Licence |
+|---|---|---|---|---|
+| [`book-v1.0.0`](../../releases/tag/book-v1.0.0) | `slate-book-v1.0.0-lichess-band0-lite.bin` | 0.8 MB | under 1400 online | **CC BY-SA 4.0** |
+| [`book-v1.0.0`](../../releases/tag/book-v1.0.0) | `slate-book-v1.0.0-lichess-band1-lite.bin` | 1.3 MB | 1400–1799 online | **CC BY-SA 4.0** |
+| [`book-v1.0.0`](../../releases/tag/book-v1.0.0) | `slate-book-v1.0.0-lichess-lite.bin` | 6.6 MB | 1800 online and up | **CC BY-SA 4.0** |
 
-Shipped in Slate Chess 1.0.
-
-One file today, and it is here because it is the one that has to be. The book
-includes Lichess broadcast data under CC BY-SA 4.0, and share-alike is not
-satisfied by a credit line — the work must be openly available on the same
-terms. Everything else the app bundles is CC0, which asks for nothing, so
+All three are shipped in Slate Chess, and all three are here because they have
+to be. They include Lichess broadcast data under CC BY-SA 4.0, and share-alike
+is not satisfied by a credit line — the work must be openly available on the
+same terms. Everything else the app bundles is CC0, which asks for nothing, so
 publishing it would be a courtesy rather than an obligation.
+
+**Why three.** Below about 1,800 online, the openings someone plays say more
+about their level than anything else in their game, so the weaker levels open
+from books built from games at their own band — the lines those players
+actually play. From 1,800 up they share the larger book.
 
 ---
 
